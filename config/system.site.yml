@@ -1,0 +1,14 @@
+uuid: 8c3b9e79-8445-47b7-9ccd-1a5af347597b
+name: dnewton-nashville-2018-training
+mail: david.newton@getpantheon.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
