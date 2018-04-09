@@ -1,0 +1,26 @@
+uuid: 4dea44d9-11c6-492d-80f5-60a1e99cdcb8
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.location.field_address
+    - node.type.location
+  module:
+    - address
+    - user
+id: node.location.default
+targetEntityType: node
+bundle: location
+mode: default
+content:
+  field_address:
+    weight: 102
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: address_default
+    region: content
+  links:
+    weight: 100
+    region: content
+hidden: {  }
